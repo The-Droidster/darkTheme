@@ -354,6 +354,7 @@
     </style>
     <style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Settings" />
     <style name="Theme.Settings" parent="@style/Theme.SettingsBase">
+		<item name="android:background">#ff37474f</item>
         <item name="android:actionBarStyle">@style/Theme.ActionBar</item>
         <item name="android:actionBarSize">@dimen/actionbar_size</item>
         <item name="android:alertDialogTheme">@style/Theme.AlertDialog</item>
